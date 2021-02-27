@@ -1,0 +1,2 @@
+This is a new file for testing new branch and then merging it.
+
